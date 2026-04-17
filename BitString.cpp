@@ -74,7 +74,6 @@ bool BitString::fileOutput(string filename, string text, bool append) {
     if (!fout.is_open()) {
         return false;
     }
-
     fout << text;
 
     for (int i = 0; i < 8; i++) {

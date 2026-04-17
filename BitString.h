@@ -12,7 +12,6 @@ private:
 public:
     BitString();
     BitString(string inp_string);
-
     bool setString(string inp_string);
     bool fileInput(string filename, int num);
     bool fileOutput(string filename, string text, bool append);
