@@ -6,9 +6,10 @@
       "type": "shell",
       "command": "g++",
       "args": [
-        "lab3.cpp",
+        "lab5.cpp",
+        "BitString.cpp",
         "-o",
-        "lab3"
+        "lab5"
       ],
       "group": {
         "kind": "build",

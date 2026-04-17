@@ -5,7 +5,7 @@
       "name": "Run C++ program",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/lab3",
+      "program": "${workspaceFolder}/lab5",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
