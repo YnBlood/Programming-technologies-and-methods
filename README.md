@@ -13,7 +13,7 @@
 - `lab5.cpp` - программа на C++ с использованием классов для ЛР №5
 - `BitString.h` - заголовочный файл класса `BitString`
 - `BitString.cpp` - методы класса `BitString`
-- `.idea/` - Python
+- `.idea/` - Python 
 - `.vscode/` - VSCode
 
 ## Структура лабораторных работ
