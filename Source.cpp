@@ -1,4 +1,4 @@
-#include "BitStringDynamic.h"
+#include "BitStringDynamic.h" 
 
 BitString::BitString() {
     size = 9;
