@@ -1,4 +1,4 @@
-class BitStringPy:
+class BitStringPy: 
     def __init__(self, value=None):
         self.bs = ['0'] * 8
 
